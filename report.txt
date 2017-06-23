@@ -2,4 +2,5 @@ This is a report file.
 
 Section 1
 Introduction
+adding a line from hot_fix
 
